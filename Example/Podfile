@@ -1,0 +1,7 @@
+
+target 'GoogleDistanceMatrixWrapper', :exclusive => true do
+  pod "GoogleDistanceMatrixWrapper", :path => "../"
+
+  pod 'Specta', '~> 0.2.1'
+  pod 'Expecta'
+end
