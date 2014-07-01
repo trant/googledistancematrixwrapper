@@ -20,7 +20,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-Antonio Pinho, antonio_marc@hotmail.com
+Antonio Pinho
 
 ## License
 
