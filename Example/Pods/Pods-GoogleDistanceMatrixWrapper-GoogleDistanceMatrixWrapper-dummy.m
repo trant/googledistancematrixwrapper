@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_GoogleDistanceMatrixWrapper_GoogleDistanceMatrixWrapper : NSObject
+@end
+@implementation PodsDummy_Pods_GoogleDistanceMatrixWrapper_GoogleDistanceMatrixWrapper
+@end
